@@ -18,33 +18,5 @@ Paste or type your Java/Python code → watch the execution visually → get rea
 
 ---
 
-## 🏗️ Tech Stack
-
-**Frontend:** React + TailwindCSS  
-**Backend:** Node.js (Express)  
-**AI Integration:** Gemini API (via backend proxy)  
-**Execution Engine:** JShell / sandboxed Docker runner  
-**Visualization:** Canvas / D3.js  
-**Deployment:** Vercel + Render
-
----
-
-## 📆 Development Phases
-
-| Phase | Description | Duration |
-|--------|--------------|----------|
-| **Phase 1** | Core visualizer for 1–2 algorithms in Java | Dec–Jan |
-| **Phase 2** | AI explanation + complexity detection | Feb–Mar |
-| **Phase 3** | Multi-language support + contributor expansion | Apr–Jun |
-
----
-
-## 🧩 Folder Overview
-
-| Folder | Purpose |
-|---------|----------|
-| `/frontend` | React app for UI and visualization |
-| `/backend` | Express server for AI + execution handling |
-| `/docs` | Architecture, design decisions, and API docs |
 
 ---
